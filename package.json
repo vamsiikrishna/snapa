@@ -1,0 +1,17 @@
+{
+  "name": "snapa_node",
+  "version": "1.0.0",
+  "description": "snapa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vamsi Krishna B",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.122.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "urlencode": "^1.1.0"
+  }
+}
